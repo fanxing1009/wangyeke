@@ -75,3 +75,20 @@ div.talbeRow {
     display: table-cell;
     vertical-align: top;
 }
+.images2{
+float: right;
+}
+
+.sprite-container {
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  background-image: url('img_navspritrs.gif');
+  }
+.header-logo {
+	background-position: 0px 0px; /* 没有任何偏移 */
+}
+
+.header-slogan {
+	background-position: -400px 0px; /* 向左偏移 */
+}
