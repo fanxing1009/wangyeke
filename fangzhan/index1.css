@@ -1,1 +1,24 @@
+nav ul li{
+  margin: 0px;
+  list-style-type: none;
+  padding: 5px 0px 5px 0px;
+  text-decoration: none;
+  }
 
+
+.yi{
+  position: relative;
+  top:  3970px;
+  left: 0;
+  
+}
+.er{
+  position: relative;
+  top: 3800px;
+  left: 250px;
+}
+.san{
+  position: relative;
+  top: 3800px;
+  left: 0px;
+}
