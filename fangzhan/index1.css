@@ -10,35 +10,43 @@ nav ul li{
 
 .yi{
   position: relative;
-  top:  3825px;
+  top:  3800px;
   left: 0;
+  
 }
 .er{
   position: relative;
-  top: 3600px;
+  top: 3520px;
   left: 300px;
+  font-weight: 900;
 }
 .san{
   position: relative;
   top: 3600px;
   left: 0px;
+  
 }
 .si{
   position: relative;
-  top: 3300px;
+  top: 3220px;
   left: 600px;
+  font-weight: 900;
 }
 .wu{
   position: relative;
-  top: 3030px;
-  left: 1000px;
+  top: 2960px;
+  left: 1200px;
 }
 .liu{
   color: white;
+  position: relative;
+  top: 2990px;
+  left: 1000px;
 }
 a{
   text-decoration: none;
   color: white;
+  font-size: 20px;
   
 }
 body{
@@ -54,3 +62,20 @@ p{
   color:orange;
   transition: 0.8s;
   }
+  .dm1:hover{
+  color:orange;
+  transition: 0.8s;
+  }
+.bj{
+  background-color: white;
+}
+h1{
+  color: white;
+  position: relative;
+  top:  3825px;
+  left: 38PX;
+  font-size: 60px;
+  }
+.dm1{
+  font-size: 10px;
+}
