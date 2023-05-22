@@ -1,0 +1,141 @@
+html body{
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+}
+html{
+  width: 100%;
+  overflow-x: hidden;
+}
+nav ul li{
+  margin: 0px;
+  list-style-type: none;
+  padding: 5px 0px 5px 0px;
+  text-decoration: none;
+}
+
+.yi{
+  position: relative;
+  top:  3800px;
+  left: 0;
+}
+
+.er{
+  position: relative;
+  top: 3500px;
+  left: 285px;
+  font-weight: 800;
+}
+
+.san{
+  position: relative;
+  top: 3480px;
+  left: 38px;
+  
+}
+.si{
+  position: relative;
+  top: 3180px;
+  left: 600px;
+  font-weight: 800;
+}
+.si a{
+  margin-top: 300px;
+}
+
+.wu{
+  position: relative;
+  top: 2315px;
+  left: 1200px;
+}
+
+.liu{
+  color: white;
+  position: relative;
+  top: 2340px;
+  left: 1000px;
+}
+
+a{
+  text-decoration: none;
+  color: white  ;
+  font-size: 20px;
+}
+
+.left{
+  background-color: black;
+  width:900px;
+  height:480px;
+  position: relative;
+  left: 0;
+  top: 4200px;
+}
+.yi a{
+  font-size: 10px;
+  font-weight: 900;
+}
+.san a{
+  font-size: 10px;
+}
+.logo {
+  position: relative;
+  top: 3800px;
+  left: 40px
+}
+.dm:hover{
+  color:orange;
+  transition: 0.8s;
+}
+.dm1:hover{
+  color:orange;
+  transition: 0.8s;
+}
+
+.qu{
+  position: relative;
+  top: 460px;
+  left: -480px;
+  transform: rotate(90deg);
+}
+
+.tu{
+  position: relative;
+  top: 440px;
+  left: -170px;
+  transform: rotate(90deg);
+}
+
+.iu{
+  position: relative;
+  left: 970px;
+  top: 2800px;
+  font-weight: 900px;
+  color: white;
+  z-index: 1;
+  font-weight: 800;
+}
+.qi{
+  font-weight: 100;
+  position: relative;
+  left: 5px;
+  top: 25px;
+}
+.qi a{
+  font-size: 10px;
+}
+
+.si a{
+  font-size: 16px;
+}
+.si li{
+  height: 32px;
+} 
+.right{
+  background-color: rgb(40, 38, 38);
+  width:720px;
+  height:480px;
+  position: relative;
+  left: 900px;
+  top: 2722px;
+  z-index: 0;
+}
