@@ -1,0 +1,662 @@
+.yiwan{
+    position: relative;
+    top: 20px;
+    left: 600px;
+    font-size: 40px;
+  }
+  
+  .erwan{
+    position: relative;
+    top: 60px;
+    left: 150px;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+  
+  .FR1 ul li{
+    display: inline;
+  }
+  
+  .FR2 ul li{
+    display: inline;
+  }
+  
+  
+  .FR1{
+    position: relative;
+    top: -110px;
+    left: 950px;
+    font-weight: 900;
+  }
+  
+  .FR2{
+    position: relative;
+    top: -128px;
+    left: 1300px;
+    font-weight: 900;
+  }
+  
+  .sx2{
+    position: relative;
+    color: black;
+    top: -154px;
+    left: 1362px;
+  }
+  
+  
+  .sx{
+    position: relative;
+    color: black;
+    top: -137px;
+    left: 1012px;
+  }
+  
+  
+  .sanwan{
+    text-transform: uppercase;
+    font-weight: 900;
+    position: relative;
+    left: 120px;
+    top: -15px;
+    font-size: 0px;
+  }
+  
+  .siwan{
+    position: relative;
+    top: -45px;
+    left: 1000px;
+  }
+  
+  .sanwan ul li{
+    display: inline;
+  }
+  
+  .siwan ul li{
+    display: inline;
+  }
+  
+  a{
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  nav ul{
+    margin: 0px;
+    list-style-type: none;
+    padding: 5px 0px 5px 0px;
+  }
+  
+  .yiwan ul li{
+    display: inline;
+  }
+  
+  .erwan ul li{
+    display: inline;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  .erwan ul li a:link,.er ul li a:visited{
+    border-bottom: none;
+    font-weight: bold;
+  }
+  
+  .erwan ul li.selected{
+    background-color: aquamarine;
+  }
+  
+  .yiwan ul li a:link,.yiwan ul li a:visited{
+    font-weight: bold;
+    border-bottom: none;
+    font-size: 40%;
+  }
+  
+  .huise{
+    position: relative;
+    top: -300px;
+    left: 0px;
+    opacity: 99%;
+  }
+  
+  .link1:hover{
+    color: orange;
+    transition: 0.7s;
+  }
+  
+  .link1{
+    color: black;
+  }
+  
+  .link2:hover{
+    color: orange;
+    transition: 0.7s;
+  }
+  
+  .link2{
+    color: gray;
+  }
+  
+  .huise{
+    position: relative;
+    top: -40px;
+  }
+  
+  .BETC{
+    color: black;
+    text-align: center;
+    font-size: 1500%;
+    font-weight: 900;
+    position: relative;
+    top: 80PX;
+  }
+  
+  .BETC2{
+    color: black;
+    font-size: 150%;
+    font-weight: 900;
+    position: relative;
+    top: 0px;
+    left: 10px;
+    height: 20px;
+  }
+  
+  .link3{
+    color: grey;
+  }
+  
+  
+  
+  .link3:hover{
+    color: orange;
+    transition: 0.7s;
+  }
+  
+  #b{
+    position: relative;
+    scroll-behavior: smooth;
+    height: 100vh;
+    width:100vw;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+  }
+  
+  #b:target{
+    top: 200px;
+    left: 0px;  
+  }
+  
+  section{
+    scroll-snap-align: start;
+  }
+  
+  .sousuo{
+    position: relative;
+    top: -65px;
+    left: 900px;
+    height: 50px;
+  }
+  
+  .sousuo2{
+    position: relative;
+    top: -85px;
+    left: 1250px;
+    height: 50px;
+  }
+  
+.right1{
+    position: relative;
+    top: -320px;
+    width: 1600px;
+  }
+
+html{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+.foreign{
+    position: relative;
+    display: inline;
+    width: 500px;
+    height: 480px;
+    top: -322px;
+    left: -10px;
+}
+
+.two{
+    position: relative;
+    display: inline;
+    width: 500px;
+    height: 480px;
+    top: -322px;
+    left: -33px;
+}
+
+.four{
+    position: relative;
+    display: inline;
+    width: 600px;
+    height: 480px;
+    top: -564.6px;
+    left: 490px;
+}
+
+.foreign h1{
+    position: absolute;
+    font-size: 20px;
+    top: -790px;
+    left: 20px;
+    color: white;
+}
+
+.foreign h2{
+    position: absolute;
+    font-size: 20px;
+    top: -420px;
+    left: 20px;
+    color: white;
+}
+
+.two h1{
+    position: absolute;
+    font-size: 20px;
+    top: -790px;
+    left: 0px;
+    color: white;
+}
+
+.two h2{
+    position: absolute;
+    font-size: 20px;
+    top: -460px;
+    left: 20px;
+    color: white;
+}
+
+.two h3{
+    position: absolute;
+    font-size: 20px;
+    top: -420px;
+    left: 20px;
+    color: white;
+    width: 200px;
+}
+
+.four h1{
+    position: absolute;
+    font-size: 20px;
+    top: -1030px;
+    left: 520px;
+    color: white;
+}
+
+.four h2{
+    position: absolute;
+    font-size: 20px;
+    top: -700px;
+    left: 520px;
+    color: white;
+    width: 200px;
+}
+
+.four h3{
+    position: absolute;
+    font-size: 20px;
+    top: -620px;
+    left: 520px;
+    color: white;
+}
+
+.big {
+    position: absolute;
+    width: 384px;
+    height: 910px;
+    overflow-y: scroll;
+    scroll-behavior: auto;
+    padding: 2% 3.7% 3% 3.7%;
+    top: 1479px;
+}
+
+.contect{
+margin-top: 14.1%;
+display: block;
+position: relative;    
+}
+
+.a{
+width: 350px;
+height:25%;
+    padding: 10px 10px 10px 10px;
+margin: 10px;
+position:relative;
+text-transform: none;
+font-weight: 550;
+color: #010101;
+display: block;
+font-size: 1.04vw;
+text-transform: none;
+margin-top: 5%;
+line-height: 1.64vw;
+font-family: 'Conv_Gotham-Medium';
+}
+
+.date{
+    padding: 0px;
+margin:  0px;
+width: 200px;
+height: 300px;
+color: #bcbcbe;
+font-size: 0.97vw;
+font-family: 'Conv_Gotham-Bold';
+font-weight: 900;
+}
+
+.title{
+font-size: larger;
+font-weight: 900;
+position: relative;
+color: #010101;
+left: 0px;
+top: 4px;
+}
+
+.bike{
+    display: inline;
+    position: absolute;
+    left: 250px;
+    top: 739px;
+    width: 1100px;
+    height: 500px;
+}
+  
+  .boy{
+    display: inline;
+    position: absolute;
+    left: 250px;
+    top: 986px;
+    width: 1100px;
+    height: 500px;
+}
+
+.bike h1{
+    position: absolute;
+    font-size: 20px;
+    top: 740px;
+    left: 280px;
+    color: white;
+}
+
+.bike h2{
+    position: absolute;
+    font-size: 20px;
+    top: 1120px;
+    left: 280px;
+    color: white;
+}
+
+.boy h1{
+    position: absolute;
+    font-size: 20px;
+    top: 1000px;
+    left: 280px;
+    color: white;
+}
+
+.boy h2{
+    position: absolute;
+    font-size: 20px;
+    top: 1360px;
+    left: 280px;
+    color: white;
+}
+
+.fly{
+    position: relative;
+    display: inline;
+    width: 500px;
+    height: 480px;
+    top: 172px;
+    left: -283px;
+}
+
+.police{
+    position: relative;
+    display: inline;
+    width: 534px;
+    height: 480px;
+    top: -70.5px;
+    left: 239px;
+}
+
+.morning{
+    position: relative;
+    display: inline;
+    width: 600px;
+    height: 480px;
+    top: -70.5px;
+    left: 200px;
+}
+
+.fly h1{
+    position: absolute;
+    font-size: 20px;
+    top: -280px;
+    left: -250px;
+    color: white;
+}
+
+.fly h2{
+    position: absolute;
+    font-size: 20px;
+    top: 100px;
+    left: -250px;
+    color: white;
+}
+
+.police h1{
+    position: absolute;
+    font-size: 20px;
+    top: -520px;
+    left: 280px;
+    color: white;
+}
+
+.police h2{
+    position: absolute;
+    font-size: 20px;
+    top: -200px;
+    left: 280px;
+    color: white;
+}
+
+.morning h1{
+    position: absolute;
+    font-size: 20px;
+    top: -520px;
+    left: 240px;
+    color: white;
+}
+
+.morning h2{
+    position: absolute;
+    font-size: 20px;
+    top: -200px;
+    left: 240px;
+    color: white;
+}
+
+.sky{
+    position: relative;
+    display: block; 
+    width: 410px;
+    height: 260px;
+    top: -22px;
+    left: 20px; 
+}
+
+.sky h1:hover{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: 300px;
+    left: 40px;
+    color: orange;
+    /* transition: 0.7s; */
+}
+
+.sky h2{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: 350px;
+    left: 40px;
+    color: black;
+}
+
+.sky h3{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: 400px;
+    left: 40px;
+    color: black;
+}
+
+.graduate{
+    position: relative;
+    display: inline;
+    width: 505px;
+    height: 480px;
+    top: 120px;
+    left: -10px;
+}
+
+.graduate h1{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: -340px;
+    left: 30px;
+    color: white;
+}
+
+.graduate h2{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: 20px;
+    left: 30px;
+    color: white;
+}
+
+.black{
+    position: relative;
+    display: inline;
+    width: 507px;
+    height: 480px;
+    top: 120px;
+    left: -34px;
+}
+
+.black h1{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: -340px;
+    left: 30px;
+    color: white;
+}
+
+.black h2{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: 20px;
+    left: 30px;
+    color: white;
+}
+
+.fruit{
+    position: relative;
+    display: inline;
+    width: 600px;
+    height: 480px;
+    top: -122px;
+    left: 495px;
+}
+
+.fruit h1{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: -580px;
+    left: 540px;
+    color: white;
+}
+
+.fruit h2{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: -300px;
+    left: 540px;
+    color: white;
+    width: 200px;
+}
+
+.ktv{
+    position: relative;
+    display: inline;
+    width: 505px;
+    height: 480px;
+    top: 117px;
+    left: -283px;
+}
+
+.ktv h1{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: -340px;
+    left: -230px;
+    color: white;
+}
+
+.ktv h2{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: 0px;
+    left: -240px;
+    color: white;
+}
+
+.bottom{
+    position: relative;
+    display: inline; 
+    top: -125.5px;
+    left: 242.5px;
+    color: white;
+    width: 1105px;
+    height: 480px;
+}
+
+.bottom h1{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: -580px;
+    left: 300px;
+    color: white;
+}
+
+.bottom h2{
+    position: absolute;
+    display: inline; 
+    font-size: 20px;
+    top: -240px;
+    left: 300px;
+    color:  white;
+}
+
